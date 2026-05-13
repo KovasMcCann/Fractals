@@ -1,2 +1,1 @@
-# Fractals
-A group of programs made to create and view fractals.
+To guide me along with creating fractals I will be using the book "Fractals" by Hans Lauwerier.
